@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kalyan-sarees-clone/static/css/main.c6548fbf.css",
-    "main.js": "/kalyan-sarees-clone/static/js/main.8a31eacc.js",
+    "main.js": "/kalyan-sarees-clone/static/js/main.9c9bb78b.js",
     "static/media/ubuntu-latin-300.woff": "/kalyan-sarees-clone/static/media/ubuntu-latin-300.8a517f2712bba8249913.woff",
     "static/media/ubuntu-latin-300italic.woff": "/kalyan-sarees-clone/static/media/ubuntu-latin-300italic.5b545d0e1cbcff11da01.woff",
     "static/media/ubuntu-latin-400italic.woff": "/kalyan-sarees-clone/static/media/ubuntu-latin-400italic.5a969b4119f974adf08c.woff",
@@ -46,10 +46,10 @@
     "static/media/roboto-latin-900.woff2": "/kalyan-sarees-clone/static/media/roboto-latin-900.870c8c1486f76054301a.woff2",
     "index.html": "/kalyan-sarees-clone/index.html",
     "main.c6548fbf.css.map": "/kalyan-sarees-clone/static/css/main.c6548fbf.css.map",
-    "main.8a31eacc.js.map": "/kalyan-sarees-clone/static/js/main.8a31eacc.js.map"
+    "main.9c9bb78b.js.map": "/kalyan-sarees-clone/static/js/main.9c9bb78b.js.map"
   },
   "entrypoints": [
     "static/css/main.c6548fbf.css",
-    "static/js/main.8a31eacc.js"
+    "static/js/main.9c9bb78b.js"
   ]
 }
